@@ -12,6 +12,6 @@
   
 5. Enter the file names in the cell under ***Getting output from Wav2Lip*** section and chose your Wav2Lip model. 
 
-6. Run all the below cells till ***Adding audio to GAN output*** section. Youur video is downloaded!!
+6. Run all the below cells till ***Adding audio to GAN output*** section. Your video will be downloaded!
 
 7. Now clear the cache as per your choice.
