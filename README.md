@@ -1,4 +1,4 @@
-# LipSync
+# SyncMe
 
 ## Steps to run
 1. Clone the repository `git clone https://github.com/anishhguptaa/LipSync.git`
